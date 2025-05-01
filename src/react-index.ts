@@ -1,0 +1,1 @@
+export { jsonToReactTables } from './react/reactJsonToTables.js'
